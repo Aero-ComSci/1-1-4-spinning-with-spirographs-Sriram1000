@@ -11,7 +11,7 @@ y = 0
 move_x = 1
 move_y = 1
 
-
+#Step 19
 while True:
     while (x < 0):
 
