@@ -2,35 +2,11 @@
 # 1.1.4Spirographs
 
 **Zero-iteration conditions and infinite loops**
+
 Zero-iteration conditions are the complete opposite of Infinite loops. Infinite loops iterate forever, while zero-iteration conditions don’t even iterate once. 
+<img width="158" alt="{13882604-E02E-4B4C-BA75-277CB01A28BF}" src="https://github.com/user-attachments/assets/18d814cc-dac2-42f7-86b5-dfa670164cfa">
 
-Zero-iteration example:
-x = 5
-
-while x==8:
-	print(“I hate the AI Club!”)
-	
-	Here's what comes out:
-
-
-
-	[nothing]
-
-
-
-
-Infinite Loop example:
-x = 5
-
-while x == 5:
-	print(“I love the AI Club!”)
-
-	Here's what comes out:
-
-	“I love the AI Club!”
-	“I love the AI Club!”
-	“I love the AI Club!”
-	“I love the AI Club!” * ∞
+<img width="185" alt="{4D5F6C49-EA47-41AE-8D21-6AFD5947F622}" src="https://github.com/user-attachments/assets/3b7d91fa-666c-4e91-ae95-3f9fa1af0499">
 
 
 **Question 21**
