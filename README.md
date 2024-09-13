@@ -31,6 +31,9 @@ This shows that the code is undecidable as no algorithm can determine it. It'll 
 
 <img width="478" alt="{84E51776-9E3C-4036-B5C3-79A3823A598E}" src="https://github.com/user-attachments/assets/e218b436-f615-47a5-9ae6-f6531d9a8ac1">
 
+**Equal Distance Squares**
+
+<img width="642" alt="{44032B80-F8C2-43F4-AF6E-CDE3AD1D99C2}" src="https://github.com/user-attachments/assets/890ce87a-2c3a-464c-b2f1-db3e24e98297">
 
 
 
