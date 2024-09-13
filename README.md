@@ -13,7 +13,7 @@ Zero-iteration conditions are the complete opposite of Infinite loops. Infinite 
 
 **Question 21**
 
-This flow chart represents avoiding a zero-iteration loop. If your answer is equal to "y", the algorithm continues, but if it isn't, then it ends.
+Answer: This flow chart represents avoiding a zero-iteration loop. If your answer is equal to "y", the algorithm continues, but if it isn't, then it ends.
    
 **Tokenization**
 
