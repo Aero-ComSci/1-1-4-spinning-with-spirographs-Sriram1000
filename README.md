@@ -6,10 +6,11 @@ Zero-iteration conditions are the complete opposite of Infinite loops. Infinite 
 
 Zero-iteration example:
 x = 5
+
 while x==8:
-		print(“I hate the AI Club!”)
+	print(“I hate the AI Club!”)
 	
-	Output:
+	Here's what comes out:
 
 
 
@@ -20,10 +21,11 @@ while x==8:
 
 Infinite Loop example:
 x = 5
-while x == 5:
-		print(“I love the AI Club!”)
 
-	Output:
+while x == 5:
+	print(“I love the AI Club!”)
+
+	Here's what comes out:
 
 	“I love the AI Club!”
 	“I love the AI Club!”
