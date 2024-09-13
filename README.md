@@ -34,9 +34,12 @@ Use the forward() and right() methods to draw the sides of the squares.
 
 
 4. Complete the steps 17, 18 and 19 from [mypltw use clever to sign on](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/728c751a6c4145bea0ea83c5058fb9f9#44b0003a2ee14fcc9865e7bb5faec747)
-5. Answer to step 21
-6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
-7. Give an example of an undecidable problem, attach code.
+5. This flow chart represents avoiding a zero-iteration loop. If your answer is equal to "y", the algorithm continues, but if it isn't, then it ends.
+6. ![image](https://github.com/user-attachments/assets/90e55e47-3ef1-4718-96b6-b946fdcc5d05)
+7. ![image](https://github.com/user-attachments/assets/f6765f83-2bc6-446c-995b-3f73e300efa8)
+   This shows that the code is undecidable as no algorithm can determine it. It'll loop forever but everytime it loops it passes.
+
+
    
 
 
