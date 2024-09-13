@@ -25,6 +25,16 @@ Answer: This flow chart represents avoiding a zero-iteration loop. If your answe
 
 This shows that the code is undecidable as no algorithm can determine it. It'll loop forever but everytime it loops it passes.
 
+# Pictures
+
+**Concentric Squares**
+
+<img width="478" alt="{84E51776-9E3C-4036-B5C3-79A3823A598E}" src="https://github.com/user-attachments/assets/e218b436-f615-47a5-9ae6-f6531d9a8ac1">
+
+
+
+
+
 
    
 
