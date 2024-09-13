@@ -1,36 +1,35 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SkD24yV8)
 # 1.1.4Spirographs
 
-*Complete the following.*
+**Zero-iteration conditions and infinite loops**
+Zero-iteration conditions are the complete opposite of Infinite loops. Infinite loops iterate forever, while zero-iteration conditions don’t even iterate once. 
 
-1. Compare and contrast zero-iteration conditions and infinite loops.
-2. A link to your code where you solve the following problem. Take the screen size of 800px. Create code or algorithm that always places the object(s), up to 5, in the center an equal distance from one another and from the edges of the screen.
-3. Concentric Squares -- Add a screenshot of your result and the code to create it on your repo.
-Objective: Write a Python program using the turtle module to draw a pattern of concentric squares. The pattern should be created using nested loops.
+Zero-iteration example:
+x = 5
+while x==8:
+		print(“I hate the AI Club!”)
+	
+	Output:
 
-Instructions:
 
-Setup the Turtle Environment:
-Import the turtle module.
-Create a turtle object.
-Set the turtle speed to the fastest setting.
-Draw Concentric Squares:
-Use a nested loop to draw multiple squares.
-The outer loop should control the number of squares.
-The inner loop should draw each square.
-Each square should be slightly larger than the previous one.
-Customize the Pattern:
-Use different colors for each square.
-Ensure the squares are centered on the screen.
-Example Output:
 
-The turtle should draw a series of squares, each one larger than the last, creating a pattern of concentric squares.
+	[nothing]
 
-Hints:
 
-Use the penup() and pendown() methods to move the turtle without drawing.
-Use the color() method to change the turtle’s color.
-Use the forward() and right() methods to draw the sides of the squares.
+
+
+Infinite Loop example:
+x = 5
+while x == 5:
+		print(“I love the AI Club!”)
+
+	Output:
+
+	“I love the AI Club!”
+	“I love the AI Club!”
+	“I love the AI Club!”
+	“I love the AI Club!” * ∞
+
 
 **Question 21**
 
