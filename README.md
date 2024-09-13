@@ -37,9 +37,11 @@ Use the forward() and right() methods to draw the sides of the squares.
 This flow chart represents avoiding a zero-iteration loop. If your answer is equal to "y", the algorithm continues, but if it isn't, then it ends.
    
 **Tokenization**
+
 ![image](https://github.com/user-attachments/assets/90e55e47-3ef1-4718-96b6-b946fdcc5d05)
 
 **Undecidable Code**
+
 ![image](https://github.com/user-attachments/assets/f6765f83-2bc6-446c-995b-3f73e300efa8)
 
 This shows that the code is undecidable as no algorithm can determine it. It'll loop forever but everytime it loops it passes.
