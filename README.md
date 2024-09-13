@@ -36,6 +36,9 @@ This shows that the code is undecidable as no algorithm can determine it. It'll 
 <img width="642" alt="{44032B80-F8C2-43F4-AF6E-CDE3AD1D99C2}" src="https://github.com/user-attachments/assets/890ce87a-2c3a-464c-b2f1-db3e24e98297">
 
 
+**Steps 17 and 18 and 19**
+
+<img width="479" alt="{FC61BFB9-F888-475C-8D3A-C723187CE7A7}" src="https://github.com/user-attachments/assets/de548a7e-c08b-4137-b536-55ac265cb11e">
 
 
 
